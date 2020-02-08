@@ -2,6 +2,5 @@
 
 hello
 
-hi
+this is test
 
-bye
