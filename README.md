@@ -1,5 +1,3 @@
 # test
 
-hello
-
-hi
+this is test
